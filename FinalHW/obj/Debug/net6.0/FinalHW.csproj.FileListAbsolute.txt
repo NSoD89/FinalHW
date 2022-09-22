@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\С#ДЗ\FinalHW\bin\Debug\net6.0\FinalHW.exe
+C:\Users\User\Desktop\С#ДЗ\FinalHW\bin\Debug\net6.0\FinalHW.deps.json
+C:\Users\User\Desktop\С#ДЗ\FinalHW\bin\Debug\net6.0\FinalHW.runtimeconfig.json
+C:\Users\User\Desktop\С#ДЗ\FinalHW\bin\Debug\net6.0\FinalHW.dll
+C:\Users\User\Desktop\С#ДЗ\FinalHW\bin\Debug\net6.0\FinalHW.pdb
+C:\Users\User\Desktop\С#ДЗ\FinalHW\obj\Debug\net6.0\FinalHW.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\С#ДЗ\FinalHW\obj\Debug\net6.0\FinalHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\С#ДЗ\FinalHW\obj\Debug\net6.0\FinalHW.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\С#ДЗ\FinalHW\obj\Debug\net6.0\FinalHW.AssemblyInfo.cs
+C:\Users\User\Desktop\С#ДЗ\FinalHW\obj\Debug\net6.0\FinalHW.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\С#ДЗ\FinalHW\obj\Debug\net6.0\FinalHW.dll
+C:\Users\User\Desktop\С#ДЗ\FinalHW\obj\Debug\net6.0\refint\FinalHW.dll
+C:\Users\User\Desktop\С#ДЗ\FinalHW\obj\Debug\net6.0\FinalHW.pdb
+C:\Users\User\Desktop\С#ДЗ\FinalHW\obj\Debug\net6.0\FinalHW.genruntimeconfig.cache
+C:\Users\User\Desktop\С#ДЗ\FinalHW\obj\Debug\net6.0\ref\FinalHW.dll
